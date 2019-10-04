@@ -138,7 +138,6 @@
 		}
 
 		if (shouldRemoveFirstKeyframe) {
-			alert("Removed first keyframe");
 			mouthRemap.removeKey(1);
 		}
 
